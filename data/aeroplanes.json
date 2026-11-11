@@ -1,0 +1,8 @@
+[
+    {
+        "callsign": "TEST",
+        "country": "Italy",
+        "velocity": 250.0,
+        "altitude": 10000.0
+    }
+]
